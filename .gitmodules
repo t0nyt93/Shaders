@@ -1,0 +1,12 @@
+[submodule "cs457Project4"]
+	path = cs457Project4
+	url = ./cs457Project4
+[submodule "p5"]
+	path = p5
+	url = ./p5
+[submodule "BezeirTriangle"]
+	path = BezeirTriangle
+	url = ./BezeirTriangle
+[submodule "Ellipses"]
+	path = Ellipses
+	url = ./Ellipses
